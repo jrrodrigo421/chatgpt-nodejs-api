@@ -33,4 +33,8 @@
 - ```wscat -c url_de_conexao_do_websocket```
 - Exemplo de chamada ```{"action":"sendPublic", "message":"Hello World!"}```
 
-### Projeto proposto pela Startup DIO - Digital Innovation One, instrutor Cassiano
+<br>
+<br>
+
+
+### *Projeto proposto pela Startup DIO - Digital Innovation One, instrutor Cassiano*
