@@ -36,6 +36,6 @@
 <br>
 <br>
 
-
+## OBS:
 ### *Projeto proposto pela Startup DIO - Digital Innovation One*
-### *instrutor Cassiano*
+### *Instrutor: Cassiano*
