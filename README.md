@@ -37,4 +37,5 @@
 <br>
 
 
-### *Projeto proposto pela Startup DIO - Digital Innovation One, instrutor Cassiano*
+### *Projeto proposto pela Startup DIO - Digital Innovation One*
+### *instrutor Cassiano*
